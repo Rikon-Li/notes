@@ -11,5 +11,5 @@ iostream库包含两个基础类型istream和ostream，分别表示输入流和�
 istream：cin（标准输入）
 ostream：cout（标准输出）、cerr（标准错误）、clog
 
-
+for语句包含循环头和循环体，循环头控制循环体的执行次数，它由三部分组成：初始化语句(init-statement)、循环条件(condition)、表达式(expression)。
 
