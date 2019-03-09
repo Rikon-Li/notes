@@ -5,3 +5,7 @@ shift+g 跳到最后一行
 shift+4 跳到行尾
 shift+6 跳到行首
 
+u 撤销
+ctrl+r 恢复撤销
+
+
